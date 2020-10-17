@@ -1,0 +1,96 @@
+
+/*nav bar*/
+.nav-item{
+padding:18px 18px;
+
+}
+.navbar{background-color: #fff;}
+.nav-link{font-weight: bold;
+      color: black;
+    font-size: 1rem;}
+.location{padding: 7px;
+}
+.nav-link:hover{color:#96bb7c;}
+/*reward*/
+.reward{background-color: #1E3932;
+text-align: center;
+color: #fff;
+line-height: 2;
+letter-spacing: 2px;
+font-size: 18px;
+padding: 3% 4% 2%;
+font-family: "Montserrat-Regular 400";
+}
+.reward-text{padding:4%;
+line-height: 1.2;}
+.reward-img{width:70%;
+       height: 70%; }
+
+       /*button*/
+
+.sec-button{margin:3%;}
+/*ALL*/
+.all{text-align: center;
+color: #960048;
+font-size: 100%;
+
+font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 4px;
+    margin:5% auto;
+}
+
+/*autumn*/
+.autumn,.milk,.sandwich{background-color: #FBE2C5;
+color:#960048;
+text-align: center;
+margin-bottom: 2%;}
+.autumn-img,.milk-img,.sandwich-img{width: 100%;
+        height: 100%;}
+.autumn-text,.milk-text,.sandwich-text{padding: 10% 4%;}
+.autumn-head,.milk-head,.sandwich-head{padding: 7%;
+  font-weight: 700;
+      line-height: 1.2;
+      letter-spacing: 4px;}
+
+  /*more section*/
+  .love{
+    text-align:center;
+    color:  #1E3932;
+    font-size: 100%;
+
+    font-weight: 700;
+        line-height: 1.2;
+        letter-spacing: 4px;
+        margin:5% auto;
+  }
+  /*delivery*/
+  .uber-img,.vote-img{width: 100%;
+            height: 100%;
+}
+.delivery{background-color: #D4E9F2;
+           color: #1E3932;
+         text-align: center;
+       margin-bottom: 2%;}
+.delivery-text{
+  padding:8% 4% 3%;
+}
+.delivery-contant{margin: 5%;}
+/*vote*/
+.vote{ color: #1E3932;
+text-align: center;
+background-color: #fff;}
+.vote-text{
+  padding:8% 4% 3%;
+}
+.vote-contant{margin: 5%;}
+/*footer*/
+#footer{
+text-align: center;
+      background-color: #fff;}
+.fab-bottom{margin: 20px 10px;}
+p{color: #8f8f8f;}
+.container-fluid{padding: 7% 15%;}
+.white-section{
+   background-color: #fff;
+}
